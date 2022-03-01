@@ -10,12 +10,10 @@ namespace Demo.DockerWebAPI.Example.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    [DisableCors]
     public class ValuesController : ControllerBase
     {
         // GET api/values
         [HttpGet]
-        [DisableCors]
 
         public ActionResult<IEnumerable<string>> Get()
         {
