@@ -1,0 +1,17 @@
+G:\sample-docker-webapi\Demo.DockerWebAPI.Example\bin\Debug\netcoreapp2.1\Demo.DockerWebAPI.Example.deps.json
+G:\sample-docker-webapi\Demo.DockerWebAPI.Example\bin\Debug\netcoreapp2.1\Demo.DockerWebAPI.Example.runtimeconfig.json
+G:\sample-docker-webapi\Demo.DockerWebAPI.Example\bin\Debug\netcoreapp2.1\Demo.DockerWebAPI.Example.runtimeconfig.dev.json
+G:\sample-docker-webapi\Demo.DockerWebAPI.Example\bin\Debug\netcoreapp2.1\Demo.DockerWebAPI.Example.dll
+G:\sample-docker-webapi\Demo.DockerWebAPI.Example\bin\Debug\netcoreapp2.1\Demo.DockerWebAPI.Example.pdb
+G:\sample-docker-webapi\Demo.DockerWebAPI.Example\obj\Debug\netcoreapp2.1\Demo.DockerWebAPI.Example.csprojAssemblyReference.cache
+G:\sample-docker-webapi\Demo.DockerWebAPI.Example\obj\Debug\netcoreapp2.1\Demo.DockerWebAPI.Example.RazorAssemblyInfo.cache
+G:\sample-docker-webapi\Demo.DockerWebAPI.Example\obj\Debug\netcoreapp2.1\Demo.DockerWebAPI.Example.RazorAssemblyInfo.cs
+G:\sample-docker-webapi\Demo.DockerWebAPI.Example\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+G:\sample-docker-webapi\Demo.DockerWebAPI.Example\obj\Debug\netcoreapp2.1\Demo.DockerWebAPI.Example.AssemblyInfoInputs.cache
+G:\sample-docker-webapi\Demo.DockerWebAPI.Example\obj\Debug\netcoreapp2.1\Demo.DockerWebAPI.Example.AssemblyInfo.cs
+G:\sample-docker-webapi\Demo.DockerWebAPI.Example\obj\Debug\netcoreapp2.1\Demo.DockerWebAPI.Example.RazorTargetAssemblyInfo.cache
+G:\sample-docker-webapi\Demo.DockerWebAPI.Example\obj\Debug\netcoreapp2.1\Demo.DockerWebAPI.Example.dll
+G:\sample-docker-webapi\Demo.DockerWebAPI.Example\obj\Debug\netcoreapp2.1\Demo.DockerWebAPI.Example.pdb
+G:\sample-docker-webapi\Demo.DockerWebAPI.Example\bin\Debug\netcoreapp2.1\appsettings.Development.json
+G:\sample-docker-webapi\Demo.DockerWebAPI.Example\bin\Debug\netcoreapp2.1\appsettings.json
+G:\sample-docker-webapi\Demo.DockerWebAPI.Example\bin\Debug\netcoreapp2.1\Properties\launchSettings.json

@@ -1,0 +1,14 @@
+G:\webapi-nginximage\MikeyFriedChicken.DockerWebAPI.Example\MikeyFriedChicken.DockerWebAPI.Example\bin\Release\netcoreapp2.1\MikeyFriedChicken.DockerWebAPI.Example.deps.json
+G:\webapi-nginximage\MikeyFriedChicken.DockerWebAPI.Example\MikeyFriedChicken.DockerWebAPI.Example\bin\Release\netcoreapp2.1\MikeyFriedChicken.DockerWebAPI.Example.runtimeconfig.json
+G:\webapi-nginximage\MikeyFriedChicken.DockerWebAPI.Example\MikeyFriedChicken.DockerWebAPI.Example\bin\Release\netcoreapp2.1\MikeyFriedChicken.DockerWebAPI.Example.runtimeconfig.dev.json
+G:\webapi-nginximage\MikeyFriedChicken.DockerWebAPI.Example\MikeyFriedChicken.DockerWebAPI.Example\bin\Release\netcoreapp2.1\MikeyFriedChicken.DockerWebAPI.Example.dll
+G:\webapi-nginximage\MikeyFriedChicken.DockerWebAPI.Example\MikeyFriedChicken.DockerWebAPI.Example\bin\Release\netcoreapp2.1\MikeyFriedChicken.DockerWebAPI.Example.pdb
+G:\webapi-nginximage\MikeyFriedChicken.DockerWebAPI.Example\MikeyFriedChicken.DockerWebAPI.Example\obj\Release\netcoreapp2.1\MikeyFriedChicken.DockerWebAPI.Example.csproj.CoreCompileInputs.cache
+G:\webapi-nginximage\MikeyFriedChicken.DockerWebAPI.Example\MikeyFriedChicken.DockerWebAPI.Example\obj\Release\netcoreapp2.1\MikeyFriedChicken.DockerWebAPI.Example.RazorAssemblyInfo.cache
+G:\webapi-nginximage\MikeyFriedChicken.DockerWebAPI.Example\MikeyFriedChicken.DockerWebAPI.Example\obj\Release\netcoreapp2.1\MikeyFriedChicken.DockerWebAPI.Example.RazorAssemblyInfo.cs
+G:\webapi-nginximage\MikeyFriedChicken.DockerWebAPI.Example\MikeyFriedChicken.DockerWebAPI.Example\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+G:\webapi-nginximage\MikeyFriedChicken.DockerWebAPI.Example\MikeyFriedChicken.DockerWebAPI.Example\obj\Release\netcoreapp2.1\MikeyFriedChicken.DockerWebAPI.Example.AssemblyInfoInputs.cache
+G:\webapi-nginximage\MikeyFriedChicken.DockerWebAPI.Example\MikeyFriedChicken.DockerWebAPI.Example\obj\Release\netcoreapp2.1\MikeyFriedChicken.DockerWebAPI.Example.AssemblyInfo.cs
+G:\webapi-nginximage\MikeyFriedChicken.DockerWebAPI.Example\MikeyFriedChicken.DockerWebAPI.Example\obj\Release\netcoreapp2.1\MikeyFriedChicken.DockerWebAPI.Example.RazorTargetAssemblyInfo.cache
+G:\webapi-nginximage\MikeyFriedChicken.DockerWebAPI.Example\MikeyFriedChicken.DockerWebAPI.Example\obj\Release\netcoreapp2.1\MikeyFriedChicken.DockerWebAPI.Example.dll
+G:\webapi-nginximage\MikeyFriedChicken.DockerWebAPI.Example\MikeyFriedChicken.DockerWebAPI.Example\obj\Release\netcoreapp2.1\MikeyFriedChicken.DockerWebAPI.Example.pdb
